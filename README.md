@@ -1,11 +1,12 @@
-React Hello World Demo
-======================
+Enzyme Shallow Demo
+===================
 
-Just say hello from react.
+Enzyme `shallow` demo.
 
 ```
+npm install -g jasmine
 npm install
-npm start
+npm test
 ```
 
 Then visit <http://localhost:8080/webpack-dev-server/>.
